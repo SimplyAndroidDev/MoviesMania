@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Movies Mania</string>
+    <string name="movie_backdrop">Movie backdrop image</string>
+    <string name="back_button">Back</string>
+    
+    <!-- Movie Details Activity -->
+    <string name="movie_poster">Movie poster</string>
+    <string name="overview_label">Overview</string>
+    <string name="production_label">Production</string>
+    <string name="original_title_label">Original Title</string>
+    <string name="status_label">Status</string>
+    <string name="languages_label">Languages</string>
+    <string name="minutes_format">%d min</string>
+    <string name="rating_format">%.1f (%d votes)</string>
+    
+    <!-- Save Button -->
+    <string name="save_movie">Save movie</string>
+    <string name="movie_saved">Movie saved</string>
+    <string name="movie_removed">Movie removed from saved</string>
+    
+    <!-- Error States -->
+    <string name="invalid_movie_id">Invalid movie ID</string>
+    <string name="no_data_title">Unable to load movie details</string>
+    <string name="retry">Retry</string>
+    <string name="no_data_available">No data available</string>
+    
+    <!-- Network Errors -->
+    <string name="error_no_internet">No internet connection. Please check your connection and try again.</string>
+    <string name="error_server">Unable to connect to server. Please try again later.</string>
+    <string name="error_timeout">Connection timed out. Please try again.</string>
+    <string name="error_unknown">An unknown error occurred. Please try again.</string>
+    
+    <!-- Search -->
+    <string name="search_movies">Search movies</string>
+    <string name="search_hint">Search movies…</string>
+    <string name="no_search_results">No movies found matching your search</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#5C5C5C</color>
+    <color name="light_grey">#E0E0E0</color>
+    <color name="dark_grey">#303030</color>
+    
+    <!-- App-specific colors -->
+    <color name="rating_yellow">#FF8F00</color>
+    <color name="primary">#3F51B5</color>
+    <color name="primary_dark">#303F9F</color>
+    <color name="accent">#FF4081</color>
+    <color name="background">#FAFAFA</color>
+</resources>
